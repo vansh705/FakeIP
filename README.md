@@ -10,5 +10,10 @@ First, install fakeip package using NPM:
 Now Follow the example code
 
 # Example:
-`const fakeip = require('fakeip');`
-`fakeip("ip")`
+```javascript
+const fakeip = require('fakeip');
+fakeip("ip")
+```
+## Contact Me:
+Discord: **C00LVansh#7746**<br/>
+Email: **vansh1705@outlook.com**
